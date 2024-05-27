@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu yumuşak ve hafif gecelik, uyurken rahatlık sağlayacak şekilde tasarlanmıştır. Nefes alabilen kumaşı sayesinde gece boyunca serin kalırsınız. İpeksi dokusu cildinizde hoş bir his bırakır ve narin dantel detayları feminen bir dokunuş katar. Uyandığınızda bile kendinizi taze ve dinlenmiş hissedeceksiniz. Bu gecelik, hem şıklığı hem de konforu bir arada sunar.",
+    "image": "1.jpeg",
+    "price": 300,
+    "badge": "For You"
+  },
+  {
+    "id": 2,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu gecelik, yumuşak pamuklu kumaşı ile gece boyunca rahat etmenizi sağlar. Hafif ve nefes alabilir yapısı sayesinde cildinizde taze bir his bırakır. Şık dantel süslemeleri ve zarif tasarımıyla hem konforlu hem de çekici bir görünüm sunar. Gece boyunca hareket özgürlüğünüzü kısıtlamadan size rahat bir uyku deneyimi yaşatır.",
+    "image": "2.jpeg",
+    "price": 250,
+    "badge": "For You"
+  },
+  {
+    "id": 3,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "İpeksi dokusu ve zarif tasarımıyla bu gecelik, gece boyu rahatlık sunar. Vücudu saran kesimi ve hafif kumaşı sayesinde uyurken rahatsızlık vermez. Dantel detayları ve modern kesimi ile şıklığı da elden bırakmaz. Cildinizde yumuşacık bir his bırakan bu gecelik, en hassas ciltler için bile uygundur.",
+    "image": "3.jpeg",
+    "price": 250,
+    "badge": "For You"
+  },
+  {
+    "id": 4,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu gecelik, nefes alabilir kumaşı sayesinde gece boyu serin kalmanızı sağlar. Yumuşak dokusu ve hafif yapısı ile cildinize zarar vermez ve rahat bir uyku sunar. Şık ve modern tasarımıyla bu gecelik, her gece için ideal bir seçimdir. Zarif dantel detayları ve kaliteli kumaşıyla göz alıcı ve konforludur.",
+    "image": "4.jpeg",
+    "price": 400,
+    "badge": "For You"
+  },
+  {
+    "id": 5,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu gecelik, cildinizi şımartan ipeksi bir dokuya sahiptir. Nefes alabilen ve hafif kumaşı sayesinde gece boyunca rahat kalmanızı sağlar. Modern tasarımı ve zarif detayları ile hem şık hem de rahattır. Yumuşak kumaşı cildinize zarar vermez ve gece boyu konfor sunar. Bu gecelik, her gece için mükemmel bir tercihtir.",
+    "image": "5.jpeg",
+    "price": 300,
+    "badge": "For You"
+  },
+  {
+    "id": 6,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu hafif ve nefes alabilir gecelik, gece boyunca rahatlık sağlar. İpeksi dokusu ve zarif dantel detayları ile hem şık hem de konforludur. Vücudu saran yapısı ve esnek kumaşı ile hareket özgürlüğü sunar. Cildinizi tahriş etmeyen yumuşak yapısı sayesinde her gece huzurlu bir uyku deneyimi yaşarsınız.",
+    "image": "6.jpeg",
+    "price": 400,
+    "badge": "For You"
+  },
+  {
+    "id": 8,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu zarif gecelik, yumuşak ve nefes alabilir kumaşı ile gece boyunca serin kalmanızı sağlar. İpeksi dokusu ve narin dantel detayları ile cildinize nazik bir dokunuş sunar. Hafif yapısı ile rahat bir uyku sağlar ve şık tasarımı ile de göz alıcıdır. Bu gecelik, gece boyunca konfor ve şıklığı bir arada sunar.",
+    "image": "8.jpeg",
+    "price": 250,
+    "badge": "For You"
+  },
+  {
+    "id": 18,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu gecelik, cildinizi şımartan yumuşak kumaşı ile gece boyu rahat etmenizi sağlar. Nefes alabilir yapısı sayesinde serin kalmanızı sağlar ve hafif yapısı ile hareket özgürlüğü sunar. Zarif dantel detayları ve modern tasarımı ile hem şık hem de rahattır. Bu gecelik, huzurlu bir uyku deneyimi için idealdir.",
+    "image": "18.jpeg",
+    "price": 250,
+    "badge": "For You"
+  },
+  {
+    "id": 20,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu gecelik, yumuşak ve nefes alabilir kumaşı ile gece boyunca rahat etmenizi sağlar. Hafif yapısı ve zarif dantel detayları ile hem şık hem de konforludur. İpeksi dokusu cildinize nazik bir dokunuş sunar ve rahat bir uyku sağlar. Bu gecelik, şıklığı ve rahatlığı bir arada sunar.",
+    "image": "20.jpeg",
+    "price": 250,
+    "badge": "For You"
+  },
+  {
+    "id": 22,
+    "name": "Kadın Gecelik Kıyafeti",
+    "description": "Bu zarif ve hafif gecelik, uyurken rahatlık sağlayacak şekilde tasarlanmıştır. Nefes alabilen kumaşı sayesinde gece boyunca serin kalırsınız. İpeksi dokusu cildinizde hoş bir his bırakır ve narin dantel detayları feminen bir dokunuş katar. Uyandığınızda bile kendinizi taze ve dinlenmiş hissedeceksiniz. Bu gecelik, hem şıklığı hem de konforu bir arada sunar.",
+    "image": "22.jpeg",
+    "price": 600,
+    "badge": "For You"
+  },
+
+  {
+    "id": 9,
+    "name": "Kadın Külotu",
+    "description": "Bu kadın külotu, gün boyu rahatlık ve destek sağlamak üzere tasarlanmıştır. Yumuşak ve nefes alabilir kumaşı ile cildinize nazik bir dokunuş sunar. Elastik yapısı sayesinde mükemmel uyum sağlar ve hareket özgürlüğü sunar. Şık dantel detayları ile feminen bir görünüm sunarken, pürüzsüz yapısı sayesinde giysilerin altından belli olmaz. Hem günlük kullanım için idealdir hem de özel günlerde konforunuzu korur.",
+    "image": "9.jpeg",
+    "price": 190,
+    "badge": "For You"
+  },
+  {
+    "id": 15,
+    "name": "Kadın Külotu",
+    "description": "Bu kadın külotu, hafif ve nefes alabilir kumaşı ile gün boyu rahatlık sunar. Elastik yapısı ile vücudunuza mükemmel uyum sağlar ve hareket özgürlüğü sunar. Şık ve zarif dantel detayları ile feminen bir görünüm elde ederken, yumuşak kumaşı cildinizi tahriş etmez. Bu külot, hem günlük kullanım için idealdir hem de özel günlerde şıklığınızı tamamlar.",
+    "image": "15.jpeg",
+    "price": 100,
+    "badge": "For You"
+  },
+  {
+    "id": 21,
+    "name": "Kadın Külotu",
+    "description": "Bu kadın külotu, gün boyu rahatlık sağlayan yumuşak ve nefes alabilir kumaşı ile cildinize nazik bir dokunuş sunar. Esnek yapısı sayesinde mükemmel uyum sağlar ve hareket özgürlüğü sunar. Zarif dantel detayları ve modern tasarımı ile hem şık hem de konforludur. Pürüzsüz yapısı sayesinde giysilerin altından belli olmaz ve her türlü kıyafetle rahatlıkla giyilebilir.",
+    "image": "21.jpeg",
+    "price": 100,
+    "badge": "For You"
+  },
+  {
+    "id": 10,
+    "name": "Kadın Külotu",
+    "description": "Bu kadın külotu, konfor ve şıklığı bir arada sunar. Yumuşak ve nefes alabilir kumaşı ile gün boyu rahatlık sağlar. Elastik yapısı ile vücudunuza mükemmel uyum sağlar ve hareket özgürlüğü sunar. Şık dantel detayları ile feminen bir görünüm sunar. Bu külot, hem günlük kullanım için idealdir hem de özel günlerde konforunuzu korur. Pürüzsüz yapısı sayesinde giysilerin altından belli olmaz.",
+    "image": "10.jpeg",
+    "price": 100,
+    "badge": "For You"
+  },
+  {
+    "id": 11,
+    "name": "Kadın Külotu",
+    "description": "Bu kadın külotu, gün boyu konfor sağlayan yumuşak ve nefes alabilir kumaşı ile cildinize nazik bir dokunuş sunar. Elastik yapısı ile mükemmel uyum sağlar ve hareket özgürlüğü sunar. Zarif dantel detayları ve modern tasarımı ile hem şık hem de rahattır. Pürüzsüz yapısı sayesinde giysilerin altından belli olmaz ve her türlü kıyafetle rahatlıkla giyilebilir. Bu külot, günlük kullanım için mükemmel bir tercihtir.",
+    "image": "11.jpeg",
+    "price": 100,
+    "badge": "For You"
+  },
+  {
+    "id": 12,
+    "name": "Kadın Sütyeni",
+    "description": "Bu kadın sütyeni, gün boyu rahatlık ve destek sağlamak üzere tasarlanmıştır. Yumuşak ve nefes alabilir kumaşı ile cildinize nazik bir dokunuş sunar. Ayarlanabilir askıları ve esnek yapısı ile mükemmel uyum sağlar. Şık dantel detayları ile feminen bir görünüm sunarken, destekleyici yapısı sayesinde rahatlık sağlar. Hem günlük kullanım için idealdir hem de özel günlerde şıklığınızı tamamlar.",
+    "image": "12.jpeg",
+    "price": 200,
+    "badge": "For You"
+  },
+  {
+    "id": 7,
+    "name": "Kadın Sütyeni",
+    "description": "Bu sütyen, yumuşak ve esnek kumaşı ile gün boyu rahatlık sunar. Nefes alabilir yapısı sayesinde serin kalmanızı sağlar ve hafif yapısı ile hareket özgürlüğü sunar. Ayarlanabilir askıları ve destekleyici yapısı ile mükemmel uyum sağlar. Zarif dantel detayları ve modern tasarımı ile hem şık hem de rahattır. Bu sütyen, şıklığı ve konforu bir arada sunar.",
+    "image": "7.jpeg",
+    "price": 200,
+    "badge": "For You"
+  },
+  {
+    "id": 13,
+    "name": "Kadın Sütyeni",
+    "description": "Bu sütyen, nefes alabilir ve yumuşak kumaşı ile cildinize nazik bir dokunuş sunar. Gün boyu rahatlık sağlamak üzere tasarlanmıştır ve hafif yapısı ile hareket özgürlüğü sunar. Ayarlanabilir askıları ve esnek yapısı ile mükemmel uyum sağlar. Şık ve zarif dantel detayları ile feminen bir görünüm sunar. Bu sütyen, hem günlük kullanım için idealdir hem de özel günlerde şıklığınızı tamamlar.",
+    "image": "13.jpeg",
+    "price": 200,
+    "badge": "For You"
+  },
+  {
+    "id": 14,
+    "name": "Kadın Sütyeni",
+    "description": "Bu kadın sütyeni, konfor ve destek sağlamak üzere tasarlanmıştır. Yumuşak ve nefes alabilir kumaşı ile gün boyu rahatlık sunar. Ayarlanabilir askıları ve esnek yapısı ile mükemmel uyum sağlar. Şık dantel detayları ile feminen bir görünüm sunarken, destekleyici yapısı sayesinde rahatlık sağlar. Bu sütyen, hem günlük kullanım için idealdir hem de özel günlerde şıklığınızı tamamlar.",
+    "image": "14.jpeg",
+    "price": 200,
+    "badge": "For You"
+  },
+
+  {
+    "id": 16,
+    "name": "Kadın Bikinisi",
+    "description": "Bu kadın bikinisi, şıklığı ve konforu bir araya getirir. Yumuşak ve esnek kumaşı ile cildinize nazik bir dokunuş sunar. Hızlı kuruyan malzemesi sayesinde plaj ve havuzda rahatlıkla kullanılabilir. Ayarlanabilir bağlama detayları ile kişisel uyum sağlar ve destek sunar. Modern tasarımı ve canlı renkleri ile dikkat çekerken, pürüzsüz yapısı sayesinde hareket özgürlüğü sunar. Bu bikini, hem tatil hem de günlük yüzme aktiviteleri için idealdir.",
+    "image": "16.jpeg",
+    "price": 500,
+    "badge": "For You"
+  },
+  {
+    "id": 17,
+    "name": "Kadın Bikinisi",
+    "description": "Bu kadın bikinisi, konforlu ve şık bir yüzme deneyimi sunar. Nefes alabilir ve hızlı kuruyan kumaşı sayesinde gün boyu rahatlık sağlar. Ayarlanabilir askıları ve esnek yapısı ile mükemmel uyum sağlar. Zarif ve modern tasarımı ile plajda ve havuzda şıklığınızı tamamlar. Bu bikini, hem güneşlenme hem de yüzme aktiviteleri için mükemmel bir seçenektir.",
+    "image": "17.jpeg",
+    "price": 500,
+    "badge": "For You"
+  },
+  {
+    "id": 19,
+    "name": "Kadın Bikinisi",
+    "description": "Bu kadın bikinisi, kaliteli ve dayanıklı kumaşı ile uzun ömürlü kullanım sunar. Hızlı kuruyan malzemesi sayesinde plaj ve havuzda rahatlık sağlar. Ayarlanabilir bağlama detayları ile kişisel uyum sunar ve destek sağlar. Şık tasarımı ve canlı renkleri ile dikkat çekerken, pürüzsüz yapısı sayesinde rahat hareket etmenizi sağlar. Bu bikini, hem tatil hem de günlük yüzme aktiviteleri için idealdir.",
+    "image": "19.jpeg",
+    "price": 900,
+    "badge": "For You"
+  },
+  {
+    "id": 24,
+    "name": "Kadın Mayosu",
+    "description": "Bu kadın mayosu, şıklığı ve konforu bir araya getirir. Yumuşak ve esnek kumaşı ile cildinize nazik bir dokunuş sunar. Hızlı kuruyan malzemesi sayesinde plaj ve havuzda rahatlıkla kullanılabilir. Destekleyici yapısı ve modern tasarımı ile vücuda mükemmel uyum sağlar. Şık detayları ve canlı renkleri ile dikkat çekerken, pürüzsüz yapısı sayesinde hareket özgürlüğü sunar. Bu mayo, hem tatil hem de günlük yüzme aktiviteleri için idealdir.",
+    "image": "24.jpeg",
+    "price": 400,
+    "badge": "Hot"
+  },
+  {
+    "id": 26,
+    "name": "Kadın Mayosu",
+    "description": "Bu kadın mayosu, konforlu ve şık bir yüzme deneyimi sunar. Nefes alabilir ve hızlı kuruyan kumaşı sayesinde gün boyu rahatlık sağlar. Destekleyici yapısı ile vücudu toparlayarak zarif bir görünüm sunar. Modern ve zarif tasarımı ile plajda ve havuzda şıklığınızı tamamlar. Bu mayo, hem güneşlenme hem de yüzme aktiviteleri için mükemmel bir seçenektir.",
+    "image": "26.jpeg",
+    "price": 400,
+    "badge": "Hot"
+  },
+  {
+    "id": 27,
+    "name": "Kadın Mayosu",
+    "description": "Bu kadın mayosu, kaliteli ve dayanıklı kumaşı ile uzun ömürlü kullanım sunar. Hızlı kuruyan malzemesi sayesinde plaj ve havuzda rahatlık sağlar. Destekleyici yapısı ile vücuda mükemmel uyum sağlar ve zarif bir siluet oluşturur. Şık tasarımı ve canlı renkleri ile dikkat çekerken, pürüzsüz yapısı sayesinde rahat hareket etmenizi sağlar. Bu mayo, hem tatil hem de günlük yüzme aktiviteleri için idealdir.",
+    "image": "27.jpeg",
+    "price": 300,
+    "badge": "Hot"
+  },
+  {
+    "id": 25,
+    "name": "Kadın Külotu",
+    "description": "Bu kadın külotu, zarif ve konforlu bir iç giyim seçeneğidir. Yumuşak ve nefes alabilir kumaşı ile cildinize nazik bir dokunuş sunar. Esnek yapısı ve ayarlanabilir bel kısmı ile mükemmel bir uyum sağlar. Şık tasarımı ve dantel detayları ile feminen bir görünüm kazandırır. Gün boyu rahatlık ve konfor sağlamak için idealdir. Hem günlük kullanım hem de özel anlar için mükemmel bir tercihtir. Bu külot, hem şıklığı hem de rahatlığı bir arada arayan kadınlar için idealdir.",
+    "image": "25.jpeg",
+    "price": 150,
+    "badge": "Hot"
+  },
+
+  {
+    "id": 28,
+    "name": "Kadın Mini Etek",
+    "description": "Bu kadın mini etek, şıklığı ve tarzı bir araya getirir. Yüksek kaliteli ve dayanıklı kumaşı ile uzun süreli kullanım sağlar. Rahat ve esnek yapısı sayesinde hareket özgürlüğü sunar. Mini etek tasarımı ile feminen bir görünüm elde etmenizi sağlar. Zarif detayları ve modern kesimi ile dikkat çeker. Hem günlük kullanım hem de özel günler için uygun olan bu mini etek, gardırobunuzun vazgeçilmez parçalarından biri olacak.",
+    "image": "28.jpeg",
+    "price": 200,
+    "badge": "Hot"
+  },
+  {
+    "id": 29,
+    "name": "Kadın Gecelik",
+    "description": "Bu kadın gecelik, şıklığı ve konforu bir arada sunar. Yumuşak ve hafif kumaşı ile gece boyunca rahat bir uyku deneyimi yaşamanızı sağlar. Vücudu saran kesimi ve esnek yapısı ile mükemmel bir uyum sağlar. Zarif dantel detayları ve modern tasarımı ile feminen bir görünüm kazandırır. Gecenin her anında şıklığınızı korumanızı sağlayan bu gecelik, hem günlük kullanım hem de özel anlar için mükemmel bir tercihtir.",
+    "image": "29.jpeg",
+    "price": 300,
+    "badge": "Hot"
+  },
+  {
+    "id": 30,
+    "name": "Kadın Sütyeni",
+    "description": "Bu kadın sütyeni, şıklığı ve konforu bir arada sunar. Yumuşak ve esnek kumaşı ile cildinize nazik bir dokunuş sunar. Destekleyici yapısı ve ayarlanabilir askıları ile mükemmel bir uyum sağlar. Şık dantel detayları ve modern tasarımı ile feminen bir görünüm kazandırır. Gün boyu rahatlık sağlayan bu sütyen, hem günlük kullanım hem de özel anlar için mükemmel bir tercihtir.",
+    "image": "30.jpeg",
+    "price": 150,
+    "badge": "Hot"
+  }
+]
